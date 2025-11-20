@@ -1,5 +1,5 @@
 {
-  "name": "genno-ai-master-pet-lover",
+  "name": "genno-ai---master-pet-lover",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lucide-react": "^0.554.0",
     "react": "^19.2.0",
-    "@google/genai": "^1.28.0",
+    "@google/genai": "^1.30.0",
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
